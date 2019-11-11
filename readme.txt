@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creatging a new branch is quick and simple.
 There is a bug.<--fixed-->
 Add a feature.
+Develop feature 2.
